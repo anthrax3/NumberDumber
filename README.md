@@ -33,5 +33,5 @@ last tab : For settings and editing cookie </br>
 
 
 <h3> Download </h3>
-<a href='https://www.dropbox.com/s/rssw7nigzka4zkt/NumberDumberInstaller3.rar?dl=0' > Installer </a></br>
-<a href='https://www.dropbox.com/s/mk08kfxa56epw9a/NumberDumber.exe?dl=0' >Portal </a>
+<a href='https://www.dropbox.com/s/40yq1lkytgv56w8/NumberDumberSetup.rar?dl=0' > Installer </a></br>
+<a href='https://www.dropbox.com/s/ob34coxbdkv3l50/NumberDumber.exe?dl=0' >Portal </a>
