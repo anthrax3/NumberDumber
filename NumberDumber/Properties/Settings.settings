@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NumberDumber.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserAgent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101</Value>
+    </Setting>
+    <Setting Name="Accept" Type="System.String" Scope="User">
+      <Value Profile="(Default)">text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8</Value>
+    </Setting>
+    <Setting Name="Cookie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__cfduid=dacfca29466ac5c2607ddf60a87b1a95a1437560815; truecaller-session=eyJpdiI6IkdqWlM1U3dKNlZYU3Zmcmo0NE1KOXRVVVJJR3dQZjZkV0tHdjBhbHVVZzg9IiwidmFsdWUiOiJsQTFxTWZjTWtoNStHWTFuUWFEbnkwK3ZtWmNNXC9ZZGgzMWVQc0N2cTBXa2xqNkZmeUNxd1RBV21vblFYNmVibGk0cFhmRjMxelpVUlwvMjZuaUZVWWNBPT0iLCJtYWMiOiI4NjhkN2RiNzc0N2YxYWFhZTZhYzkyYzE3ZTI3NjVkM2I2NTc5MzY5ZDI3YzUyNGQ1YWQxNTc0ZDlkMzZiOWRkIn0%3D; AB_SearchSignIn=eyJpdiI6IktFTHBINTNrSmd0YVc2dWNcL011Wk9zdjk3cm9kSmV3dWliNXR4cVFnNDdNPSIsInZhbHVlIjoib1pPNmZGVzBOXC85bkZKWDFpYVdqXC8wYXdneURYMmRKWklVRTYyTng1RVdrPSIsIm1hYyI6ImZjZDUwYzllOWY1MDNlNDVhMWRjYTI5YmMyZjQzY2ExOWQxMmNjZjViYjA5NDQ2OGZhMjI2ZmVhMDhmMmNkZjgifQ%3D%3D; XLBS2=XLBS2|Va9wa|Va9v8; _ga=GA1.2.200213827.1437560823; _gat=1; user=eyJpdiI6ImxLNWZneTZPWDdUbFJtcDJMc1ZCbEtlXC9VS0NQOTRpckw0QUttdzl5MXlBPSIsInZhbHVlIjoiUkNxMlFsVm4xOHA1T09ldFNQNmNXV0lqU1dhSzhSY2o3eWNZZ1VDdVRxcjZZZWxMMENTV1wvVGFSQ0tJZ0NPa1djXC9xU2kzcDNvTFNyNWVJTEc0TlQrMXJxOUd2ZVFLSzVjSno5dUUxTk1YbXVkNG81VlpmRzRXWEtCcTVFY1M1NGg2OHJJejZKSTE1UCtxdFRlK2hydWdJM1B3cWRHOTU2NHgzbnFYYk1HenowS2NMTWdGOWhUQjZDc1o1M0lacnZKU0MzdXgxamVcLzVmSklPU1ZpVmM3RWZsVUl6T2F1eDVOUFlKa1UzcWViWlV5cVJjQjdlQkNmZjNUUGpkVjlwZ2hvU2ZmR0lnUnJsZjRuRXpTMDJ0MDg1TmVkbWg2ZGU1cWFHSFFvOXozZitFWE50YmtpUmZcL1Zjd0p6MXJ1c3RpSVwvXC9JY0pleWVsRkt0Z0ZlSGxHejhxVGp2MzI3ek9vcFF5dDMzUzVrTHVKY0FNSGI5Z1pcL2xRdUZpMDFqN3NjcVc1MnlMVUhxWXVjTWY4R1dENThjRExxd0tpUXlJb1h1UlcyRmRkU3NOelo2c1wvYVdHNDJPelc3QlYxN2NIeUU5Y0tsOTU3dFpuRmJVOWNjTjNhVElzb0FWaWxFaGNrYzFKMG5CYlFLajlHblVqMlFRZHpMMG1yK1MzQnY4dlJHWlN1ZVVmMzNCRmhzZXR6SHR4NXBxYktUVTBkREN0WWRXZis4bkVkZFwvRFdSMmZ5b2t3aVcxV3JrT3d0bUx3WWM3WlozdUpiN2tsdXNIVTRwenNWWndiaHVtK2llTmExRmVLWlwvTnVTVTM3ZlNvSm1BTHNGckJ6S3ZcL1gwT3BkXC9CMjZlZ3pDQjRNdllGT1hhSk94SjdwXC9ZXC85aUJBUlJcL1BSSzkxQzNuY3lLYk40TmY1NnR6SWZ6SGt5NUFtVEh6R25JdzgreHZ6Z21zcnIrTGluZU53Vk1JckpYZ1FmZUdpaTk1KzZqVzFkS3Z3bHB5QzJRcFpWQ0VtRE10WG5uQUxCIiwibWFjIjoiYjZlMjA0OWYwNTNhOTY0MmQzNjgyMWViNWZlYjIxY2JhZjg0ZmIzMzM4ODczMmNmMmVlOTE4NDgyMjZkZTQ0MiJ9; PHPSESSID=igvbsbodhvo4bauuck9vb46r73</Value>
+    </Setting>
+    <Setting Name="DbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LastDumbed" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SessionExpired" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LastPrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">011</Value>
+    </Setting>
+    <Setting Name="LastRangeFrom" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">93</Value>
+    </Setting>
+    <Setting Name="LastRangeTo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">143</Value>
+    </Setting>
+    <Setting Name="LastLength" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="LastSearchedName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ad</Value>
+    </Setting>
+    <Setting Name="LastSearchedNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">01111014041</Value>
+    </Setting>
+    <Setting Name="LastCountryIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="LastTabIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LoadImageFromWeb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
